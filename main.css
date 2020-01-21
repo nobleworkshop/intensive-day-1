@@ -1,7 +1,16 @@
 .header {
-	padding: 50px 100px;
-	text-align: center;
-	background: #999;
-	font-size: 32px;
-	font-family: Sans-Serif;
+    padding: 50px 100px;
+    text-align: center;
+    background: #999;
+    font-size: 32px;
+    font-family: Sans-Serif;
+}
+
+.main {
+    background: LightGreen;
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
+    font-family: Sans-Serif;
+    text-align: center;
 }
